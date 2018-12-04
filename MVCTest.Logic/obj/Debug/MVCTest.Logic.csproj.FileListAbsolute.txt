@@ -1,0 +1,11 @@
+D:\DEV\TEST\MVCTest\MVCTest.Logic\bin\Debug\MVCTest.Logic.dll
+D:\DEV\TEST\MVCTest\MVCTest.Logic\bin\Debug\MVCTest.Logic.pdb
+D:\DEV\TEST\MVCTest\MVCTest.Logic\bin\Debug\MVCTest.Data.dll
+D:\DEV\TEST\MVCTest\MVCTest.Logic\bin\Debug\MVCTest.Entities.dll
+D:\DEV\TEST\MVCTest\MVCTest.Logic\bin\Debug\MVCTest.Data.pdb
+D:\DEV\TEST\MVCTest\MVCTest.Logic\bin\Debug\MVCTest.Entities.pdb
+D:\DEV\TEST\MVCTest\MVCTest.Logic\obj\Debug\MVCTest.Logic.csprojAssemblyReference.cache
+D:\DEV\TEST\MVCTest\MVCTest.Logic\obj\Debug\MVCTest.Logic.csproj.CoreCompileInputs.cache
+D:\DEV\TEST\MVCTest\MVCTest.Logic\obj\Debug\MVCTest.Logic.csproj.CopyComplete
+D:\DEV\TEST\MVCTest\MVCTest.Logic\obj\Debug\MVCTest.Logic.dll
+D:\DEV\TEST\MVCTest\MVCTest.Logic\obj\Debug\MVCTest.Logic.pdb

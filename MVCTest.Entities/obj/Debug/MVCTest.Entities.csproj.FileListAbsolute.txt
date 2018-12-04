@@ -1,0 +1,6 @@
+D:\DEV\TEST\MVCTest\MVCTest.Entities\bin\Debug\MVCTest.Entities.dll
+D:\DEV\TEST\MVCTest\MVCTest.Entities\bin\Debug\MVCTest.Entities.pdb
+D:\DEV\TEST\MVCTest\MVCTest.Entities\obj\Debug\MVCTest.Entities.csprojAssemblyReference.cache
+D:\DEV\TEST\MVCTest\MVCTest.Entities\obj\Debug\MVCTest.Entities.csproj.CoreCompileInputs.cache
+D:\DEV\TEST\MVCTest\MVCTest.Entities\obj\Debug\MVCTest.Entities.dll
+D:\DEV\TEST\MVCTest\MVCTest.Entities\obj\Debug\MVCTest.Entities.pdb

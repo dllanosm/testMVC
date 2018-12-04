@@ -1,0 +1,13 @@
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.ViewHandler.dll
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.ViewHandler.pdb
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.Entities.dll
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.Logic.dll
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.Data.dll
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.Entities.pdb
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.Logic.pdb
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\bin\Debug\MVCTest.Data.pdb
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\obj\Debug\MVCTest.ViewHandler.csprojAssemblyReference.cache
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\obj\Debug\MVCTest.ViewHandler.csproj.CoreCompileInputs.cache
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\obj\Debug\MVCTest.ViewHandler.csproj.CopyComplete
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\obj\Debug\MVCTest.ViewHandler.dll
+D:\DEV\TEST\MVCTest\MVCTest.ViewHandler\obj\Debug\MVCTest.ViewHandler.pdb
